@@ -1,0 +1,17 @@
+package com.javacodes.exception.model;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "employee")
+public class Employee {
+	private long id;
+    private String firstName;
+    private String lastName;
+    private String emailId;
+    
+    
+    
+
+}

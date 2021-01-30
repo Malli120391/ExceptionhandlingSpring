@@ -1,0 +1,5 @@
+package com.javacodes.exception.eexception;
+
+public class ErrorDetails {
+
+}

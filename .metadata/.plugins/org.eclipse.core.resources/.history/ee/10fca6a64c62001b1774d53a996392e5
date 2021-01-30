@@ -1,0 +1,5 @@
+package com.javacodes.exception.controller;
+
+public class ResourceNotFoundException {
+
+}
